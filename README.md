@@ -250,52 +250,47 @@ using **Power BI Desktop**.
 
 
 
-
 ## 📊 Dashboard & Visualization Screenshots
 
 ### 🔥 Streamlit Dashboard
 
 #### Main Dashboard
-![Streamlit Dashboard](STREAMLIT%20DASHBOARD.png)
+![Streamlit Dashboard](outputs/STREAMLIT%20DASHBOARD.png)
 
 #### Daily Returns & Data Table
-![Streamlit Dashboard 2](STREAMLIT%20DASHBOARD%202.png)
+![Streamlit Dashboard 2](outputs/STREAMLIT%20DASHBOARD%202.png)
 
 ---
 
 ### 📈 Power BI Dashboard
 
-![Power BI Dashboard](STOCK%20MARKET%20ANALYSIS%20POWER%20BI.png)
+![Power BI Dashboard](outputs/STOCK%20MARKET%20ANALYSIS%20POWER%20BI.png)
 
 ---
 
 ## 📉 Advanced Stock Analysis Visualizations
 
 ### Correlation Heatmap
-Shows correlation between stock movements.
 
-![Correlation Heatmap](correlation_heatmap.png)
+![Correlation Heatmap](outputs/correlation_heatmap.png)
 
 ---
 
 ### Cumulative Return of Top Performing Stocks
-Displays cumulative growth trend of top-performing stocks.
 
-![Cumulative Return](cumulative_return_chart.png)
+![Cumulative Return](outputs/cumulative_return_chart.png)
 
 ---
 
 ### Sector-wise Average Yearly Return
-Compares sector performance based on yearly returns.
 
-![Sector Performance](sector_performance_chart.png)
+![Sector Performance](outputs/sector_performance_chart.png)
 
 ---
 
 ### Top 10 Most Volatile Stocks
-Highlights stocks with highest volatility.
 
-![Volatility Chart](volatility_chart(1).png)
+![Volatility Chart](outputs/volatility_chart(1).png)
 
 
 
