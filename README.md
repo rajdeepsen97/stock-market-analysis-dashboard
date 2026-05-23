@@ -148,7 +148,7 @@ Compared yearly average returns across sectors.
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/stock-analysis-project.git
+git clone https://github.com/rajdeepsen/stock-analysis-project.git
 cd stock-analysis-project
 ```
 
